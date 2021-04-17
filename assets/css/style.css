@@ -1,0 +1,27 @@
+
+/*-----footer----*/
+.container-fluid {
+    margin:0;
+    padding:0;
+    border:0;
+}
+.list-inline {
+    margin:0;
+    padding:0;
+    border:0;
+}
+.bg-color {
+    background-color: TO BE INSERTED;
+}
+.list-inline-item i{
+   font-size: 50px;
+    margin: 0 auto;
+    color: TO BE INSERTED;
+    max-width: height 80px;
+}
+.list-inline li {
+    padding-left: 35px;
+}
+.footer-style {
+padding: 10px;
+}
