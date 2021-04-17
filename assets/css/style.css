@@ -2,4 +2,44 @@
     min-height: 100vh;
     background: url('../images/code-lady.jpg') no-repeat center center ;
     background-size: cover; 
+
+/*--body-info--*/
+
+#index-info-2{
+    float: left;
+  }
+#index-info-3{
+    float: left;
+  }
+
+#info {
+    width: 100%;
+}
+/*-----footer----*/
+
+.container-fluid {
+    margin:0;
+    padding:0;
+    border:0;
+    position: sticky;
+}
+.list-inline {
+    margin:0;
+    padding:0;
+    border:0;
+}
+.bg-color {
+    background-color: greenyellow;
+}
+.list-inline-item i{
+   font-size: 50px;
+    margin: 0 auto;
+    color: greenyellow;
+    max-width: height 80px;
+}
+.list-inline li {
+    padding-left: 35px;
+}
+.footer-style {
+    padding: 10px;
 }
