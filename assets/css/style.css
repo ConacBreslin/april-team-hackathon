@@ -1,9 +1,23 @@
 
+/*--body-info--*/
+
+#index-info-2{
+    float: left;
+  }
+#index-info-3{
+    float: left;
+  }
+
+#info {
+    width: 100%;
+}
 /*-----footer----*/
+
 .container-fluid {
     margin:0;
     padding:0;
     border:0;
+    position: sticky;
 }
 .list-inline {
     margin:0;
@@ -11,17 +25,17 @@
     border:0;
 }
 .bg-color {
-    background-color: TO BE INSERTED;
+    background-color: greenyellow;
 }
 .list-inline-item i{
    font-size: 50px;
     margin: 0 auto;
-    color: TO BE INSERTED;
+    color: greenyellow;
     max-width: height 80px;
 }
 .list-inline li {
     padding-left: 35px;
 }
 .footer-style {
-padding: 10px;
+    padding: 10px;
 }
