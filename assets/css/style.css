@@ -1,4 +1,7 @@
-
+/*--navbar--*/
+.navbar {  
+    font-size: 40px;
+ }
 /*--body-info--*/
 
 #index-info-2{
@@ -13,12 +16,18 @@
 }
 /*-----footer----*/
 
-.container-fluid {
+footer {
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+}
+
+#footer {
     margin:0;
     padding:0;
     border:0;
-    position: sticky;
 }
+
 .list-inline {
     margin:0;
     padding:0;
@@ -27,10 +36,10 @@
 .bg-color {
     background-color: greenyellow;
 }
-.list-inline-item i{
+i{
    font-size: 50px;
     margin: 0 auto;
-    color: greenyellow;
+    color: grey!important;
     max-width: height 80px;
 }
 .list-inline li {
