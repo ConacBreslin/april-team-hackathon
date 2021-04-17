@@ -1,0 +1,5 @@
+#hero-image {
+    min-height: 100vh;
+    background: url('../images/code-lady.jpg') #263538 no-repeat center center ;
+    background-size: cover; 
+}
